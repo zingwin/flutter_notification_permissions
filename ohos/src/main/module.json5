@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "notification_permissions",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

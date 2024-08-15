@@ -101,8 +101,8 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
                     SizedBox(
                       height: 20,
                     ),
-                    FlatButton(
-                      color: Colors.amber,
+                    ElevatedButton(
+                      // color: Colors.amber,
                       child: Text("Ask for notification status".toUpperCase()),
                       onPressed: () {
                         // show the dialog/open settings screen
